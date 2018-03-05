@@ -1,0 +1,15 @@
+{
+    "name": "tobinski/bedrock-docker-deployer",
+    "description": "Deployer recipes for Roots Bedrock with containerized DB",
+    "require": {
+        "deployer/deployer": "~5.0",
+        "florianmoser/bedrock-deployer": "~0.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tobinski",
+            "email": "tobinski@captns.ch"
+        }
+    ]
+}
