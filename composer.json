@@ -3,7 +3,7 @@
     "description": "Deployer recipes for Roots Bedrock with containerized DB",
     "require": {
         "deployer/deployer": "~6.0",
-        "florianmoser/bedrock-deployer": "~0.3"
+        "florianmoser/bedrock-deployer": ">=0.3"
     },
     "license": "MIT",
     "authors": [
